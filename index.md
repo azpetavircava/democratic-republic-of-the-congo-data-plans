@@ -58,3 +58,10 @@ layout: default
 
 　　希望这份指南能帮你扫清一些障碍。网络连接像是现代旅行者的氧气面罩，有了它，你才能更自如地深入探索刚果金令人惊叹的多样性与活力。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Democratic Republic Of The Congo SIM 卡购买与激活指南](https://faciylike.github.io/democratic-republic-of-the-congo-sim-guides)
